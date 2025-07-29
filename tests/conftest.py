@@ -5,7 +5,7 @@ from appium.webdriver.common.appiumby import AppiumBy
 from dotenv import load_dotenv
 from selene import browser, have
 
-from vi_project.utils import attach
+from lamoda_mobile_autotests.utils import attach
 
 
 import config

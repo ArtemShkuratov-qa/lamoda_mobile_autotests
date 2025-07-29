@@ -4,7 +4,7 @@ import allure
 from appium.webdriver.common.appiumby import AppiumBy
 from selene import browser, have, be
 from selenium.webdriver.support.wait import WebDriverWait
-from vi_project.utils.gui_utils import perform_tap_at_coordinates
+from lamoda_mobile_autotests.utils.gui_utils import perform_tap_at_coordinates
 
 
 @allure.title('Проверка поиска')

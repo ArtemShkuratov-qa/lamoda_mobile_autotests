@@ -3,7 +3,7 @@ import os
 from appium.options.android import UiAutomator2Options
 from dotenv import load_dotenv
 
-from vi_project import utils
+from lamoda_mobile_autotests import utils
 
 
 def to_driver_options(context):
